@@ -1,7 +1,5 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# from __future__ has to be the first line 
-from __future__ import print_function
 import sys
 import logging
 
